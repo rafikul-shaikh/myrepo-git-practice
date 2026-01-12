@@ -2,3 +2,6 @@ I am a fix file which is used to fix the bug.
 
 Fix another bug
  fix another 2 bug
+
+ one more file is detected and fixed 
+ fix bug 5th 
